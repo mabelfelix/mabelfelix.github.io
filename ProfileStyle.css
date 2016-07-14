@@ -1,0 +1,42 @@
+section{
+  color: #002266;
+  font-size: 65px;
+  text-align: center;
+  margin: 7px;
+  margin-bottom:30px;
+}
+.secondheader{
+  font-size: 30px;
+  margin-bottom: 5px;
+  text-align: left;
+}
+
+body{
+  font-family: ‘Courier New’, Courier, monospace;
+}
+img.profilepic{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+}
+
+div{
+  font-size: 20px;
+  text-align: center;
+}
+
+.option{
+  width: 24%;
+  display: inline-block;
+  margin-bottom: 50px;
+}
+
+a{
+  color: black;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #002266;
+}
